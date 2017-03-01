@@ -1,0 +1,19 @@
+{
+  "name": "scotch-angular-components",
+  "version": "1.0.0",
+  "description": "Exercise from Scotch.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaseolsen/scotch-angular-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaseolsen/scotch-angular-components/issues"
+  },
+  "homepage": "https://github.com/chaseolsen/scotch-angular-components#readme"
+}
